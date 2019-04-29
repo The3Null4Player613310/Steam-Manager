@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=inName\ inPassword\ inApikey
+comment0.target=AccountManager(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=boolean\ login()
+comment2.params=
+comment2.target=boolean\ logout()
+numComments=3
